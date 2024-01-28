@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "express": "*"
+  },
+  "name": "master",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
