@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by me jhodskafhjashf
+          Learn React by me, change by C and B
         </a>
       </header>
     </div>
